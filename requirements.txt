@@ -1,0 +1,10 @@
+# hjh_ai_curriculum 공통 의존성
+# lecture01~02 는 파이썬 표준 라이브러리만으로 진행됩니다.
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4
+scipy>=1.11
+
+# lecture08 부터 (CPU 버전으로 충분합니다)
+torch>=2.2
